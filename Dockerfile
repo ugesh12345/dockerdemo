@@ -1,5 +1,5 @@
 FROM ubuntu 
-MAINTAINER demousr@gmail.com 
+MAINTAINER demousr@gmail.com
 
 RUN apt-get update  
 CMD echo "helloworld"
